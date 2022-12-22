@@ -5,9 +5,13 @@ In this project, I go through the data model of the Rebrickable LEGO Dataset and
 ## Skills covered in this project:
 
 -Creating a database in SQL Server
+
 -Two different methods of importing files into a database
+
 -SQL JOINS
+
 -SQL WINDOW functions
+
 -Common Table Expressions (CTEs)
 
 ## About the Rebrickable LEGO Dataset
@@ -19,5 +23,7 @@ The Rebrickable LEGO Dataset is a comprehensive collection of data about LEGO se
 In this project, I will go through the following steps:
 
 -Set up a SQL Server database and import the Rebrickable LEGO Dataset CSV files into it.
+
 -Write basic SQL queries to extract information from the database.
+
 -Use JOINS, CTEs, and WINDOW functions to answer more complex questions about the data.
